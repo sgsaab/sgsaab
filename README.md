@@ -1,6 +1,6 @@
 👋 Hi, I’m Sana. I'm studying Computer Science at Brown University, and I think coding is super fun!
-- 💞️ When I'm not working I like trying new things (currently ballroom dancing)
-- 🌱 This semester I'm taking courses on Design and Systems
+- 💞️ When I'm not working I like trying new things (currently scrapbooking)
+- 🌱 This semester I'm taking courses on History at Trinity College Dublin
 - 👀 I’m open to collaboration
 - 📫 You can reach me at sana_saab@brown.edu
 
